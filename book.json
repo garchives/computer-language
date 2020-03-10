@@ -1,6 +1,6 @@
 {
-  "title": "《GitBook Template》",
-  "description": "描述",
+  "title": "《计算机语言》",
+  "description": "计算机语言、编程语言、编程语言核心特性、Computer Language、Programming Language",
   "language": "zh-hans",
   "author": "Jins Yin",
   "links": {
@@ -34,10 +34,10 @@
   ],
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/jinsyin/gitbook-template"
+      "url": "https://github.com/jinsyin/computer-language"
     },
     "github-buttons": {
-      "repo": "jinsyin/gitbook-template",
+      "repo": "jinsyin/computer-language",
       "types": [
         "star"
       ],
@@ -47,12 +47,12 @@
       "token": "UA-12345678-1"
     },
     "edit-link": {
-      "base": "https://github.com/jinsyin/gitbook-template/blob/master/",
+      "base": "https://github.com/jinsyin/computer-language/blob/master/",
       "label": "编辑"
     },
     "favicon": "favicon.ico",
     "sitemap-general": {
-      "prefix": "https://githome.io/gitbook-template/"
+      "prefix": "https://githome.io/computer-language/"
     },
     "page-toc": {
       "selector": ".markdown-section h2, .markdown-section h3, .markdown-section h4",
